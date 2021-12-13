@@ -1,6 +1,6 @@
 # Color Gradient React App
 
-![Screenshop](https://raw.githubusercontent.com/Angstromico/React-App-Skills/master/groseries.png)
+![Screenshop](https://raw.githubusercontent.com/Angstromico/React-Groseries-App/master/groseries.png)
 
 # [See The App Here](https://manuel-morales-groseries-app-react.netlify.app/)
 
