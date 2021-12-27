@@ -1,4 +1,4 @@
-# Color Gradient React App
+# Groseries React App
 
 ![Screenshop](https://raw.githubusercontent.com/Angstromico/React-Groseries-App/master/groseries.png)
 
